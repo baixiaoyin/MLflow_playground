@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BAIX0/Dropbox/Workspace/MLflow_playground/mlflow_test_projects/mlruns/0/88a715a43ccd4d2fb9fc03bb29b6fac7/artifacts
+end_time: 1651466333971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 88a715a43ccd4d2fb9fc03bb29b6fac7
+run_uuid: 88a715a43ccd4d2fb9fc03bb29b6fac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651466321345
+status: 3
+tags: []
+user_id: BAIX0
